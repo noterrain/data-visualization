@@ -1,0 +1,5 @@
+data-visualization
+==================
+I was interested in the connection between different things. Data visualization is a cool way to present how  one thing can effect the other. For example, If we search “Obama” in NYtimes, what is the most frequent word of the next? If the there had been a earthquack happened in China, what would the climate change in the following days in different place of the world?This processing project makes people know what happened, what people talk about at this moment, and how one thing connect the other.
+ 
+When people search something on the Internet, the results they see just correspond to the certain objects, items, sentences and words that they search. Think about it a little bit further, the source and relationship of things are always hidden among these clutter and unsorted information. In my view, technology let people know what’s going on, while at the same time, it make people lost in the information explosion. Another advantage of Data visualization is to help people understand more than what they see, and the essence of the world.
